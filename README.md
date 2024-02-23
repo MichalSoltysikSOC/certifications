@@ -4,7 +4,7 @@ Cybersecurity Analyst & Consultant
 
 Specializing in deep packet inspection (i.e. network edge profiling and 0-day attacks).
 
-To date, he has identified 253 protocols in the IT, OT and IoT areas used for cyber attacks.
+To date, he has identified 254 protocols in the IT, OT and IoT areas used for cyber attacks.
 
 Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer and SOC Trainer.
 
