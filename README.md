@@ -46,6 +46,8 @@ DoD 8570 (previously) / 8140 (presently) certified.
 
 Mapped to NIST / Homeland Security NICCS's Cyber Security Workforce Framework.
 
+Mapped to NCWF (NICE Cybersecurity Workforce Framework).
+
 Approved on the FBI Cyber Security Certification Requirement list (Tier 1-3).
 
 
