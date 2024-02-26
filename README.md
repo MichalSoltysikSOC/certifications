@@ -27,6 +27,8 @@ C)VA - Certified Vulnerability Assessor
 
 RvBCWP - Red vs Blue Cyber Warfare Practitioner
 
+CIoTSP - Certified Internet of Things Security Practitioner
+
 CNSP - Certified Network Security Practitioner
 
 CNSE - Certified Network Security Engineer
