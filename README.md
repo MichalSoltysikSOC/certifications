@@ -42,7 +42,7 @@ Accredited by ANAB under ISO/IEC 17024.
 
 Accredited by the NSA CNSS 4011-4016.
 
-DoD 8570 (previously) / 8140 (presently) certified.
+Approved by DoD 8570 (previously) / 8140 (presently).
 
 Mapped to NIST / Homeland Security NICCS's Cyber Security Workforce Framework.
 
