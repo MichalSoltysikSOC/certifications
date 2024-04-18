@@ -17,6 +17,8 @@ C)DFE - Certified Digital Forensics Examiner
 
 WCNA - Wireshark Certified Network Analyst
 
+C|ND - Certified Network Defender
+
 C)PTC - Certified Penetration Testing Consultant
 
 C)PTE - Certified Penetration Testing Engineer
@@ -51,6 +53,8 @@ Mapped to NIST / Homeland Security NICCS's Cyber Security Workforce Framework.
 Mapped to NCWF (NICE Cybersecurity Workforce Framework).
 
 Approved on the FBI Cyber Security Certification Requirement list (Tier 1-3).
+
+Recognized by NCSC - part of GCHQ (UK's intelligence, security, and cyber agency).
 
 
 Contact:
