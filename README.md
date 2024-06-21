@@ -11,6 +11,8 @@ Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer a
 
 C)CSA - Certified Cyber Security Analyst
 
+C|SA - Certified SOC Analyst
+
 C)NFE - Certified Network Forensics Examiner
 
 C)DFE - Certified Digital Forensics Examiner
