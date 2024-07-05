@@ -35,6 +35,8 @@ C)VA - Certified Vulnerability Assessor
 
 RvBCWP - Red vs Blue Cyber Warfare Practitioner
 
+CM)IPS - Certified Master Intrusion Prevention Specialist
+
 CIoTSP - Certified Internet of Things Security Practitioner
 
 OOSE - OPSWAT OT Security Expert
