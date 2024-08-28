@@ -37,6 +37,8 @@ RvBCWP - Red vs Blue Cyber Warfare Practitioner
 
 CM)IPS - Certified Master Intrusion Prevention Specialist
 
+C)TIA - Certified Threat Intelligence Analyst
+
 CIoTSP - Certified Internet of Things Security Practitioner
 
 OOSE - OPSWAT OT Security Expert
