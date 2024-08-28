@@ -11,6 +11,8 @@ To date, he has identified 254 protocols in the IT, OT and IoT areas used for cy
 Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer and SOC Trainer.
 
 
+CM)CTA - Certified Master Cyber Threat Analyst
+
 C)CSA - Certified Cyber Security Analyst
 
 C|SA - Certified SOC Analyst
