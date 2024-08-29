@@ -17,6 +17,8 @@ C)CSA - Certified Cyber Security Analyst
 
 C|SA - Certified SOC Analyst
 
+CM)CFI - Certified Master Cyber Forensic Investigator
+
 C)NFE - Certified Network Forensics Examiner
 
 C)DFE - Certified Digital Forensics Examiner
