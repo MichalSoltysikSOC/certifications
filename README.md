@@ -73,6 +73,8 @@ Recognized by NCSC - part of GCHQ (UK's intelligence, security, and cyber agency
 
 Contact:
 
+Official website: https://michalsoltysik.com/
+
 Mail: mikewavepoland@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/
