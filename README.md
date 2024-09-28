@@ -75,7 +75,7 @@ Contact:
 
 Official website: https://michalsoltysik.com/
 
-Mail: mikewavepoland@gmail.com
+Mail: me@michalsoltysik.com
 
 LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/
 
