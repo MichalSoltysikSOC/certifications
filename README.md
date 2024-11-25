@@ -27,6 +27,8 @@ WCNA - Wireshark Certified Network Analyst
 
 C|ND - Certified Network Defender
 
+CCD - Certified CyberDefender
+
 C)ISSO - Certified Information Systems Security Officer
 
 C)PTC - Certified Penetration Testing Consultant
