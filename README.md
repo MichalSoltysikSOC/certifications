@@ -13,7 +13,7 @@ Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer a
 
 CM)CTA - Certified Master Cyber Threat Analyst
 
-C)CSA - Certified Cyber Security Analyst
+C)CSA & C3SA - Certified Cyber Security Analyst
 
 C|SA - Certified SOC Analyst
 
