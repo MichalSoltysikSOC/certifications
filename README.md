@@ -19,6 +19,8 @@ C|SA - Certified SOC Analyst
 
 CM)CFI - Certified Master Cyber Forensic Investigator
 
+GNFA - GIAC Network Forensic Analyst
+
 C)NFE - Certified Network Forensics Examiner
 
 C)DFE - Certified Digital Forensics Examiner
