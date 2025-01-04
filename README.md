@@ -85,4 +85,6 @@ LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/
 
 Accredible: https://www.credential.net/profile/michalsoltysik/wallet
 
+Credly: https://www.credly.com/users/michal-soltysik
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
