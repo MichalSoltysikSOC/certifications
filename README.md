@@ -15,6 +15,8 @@ CM)CTA - Certified Master Cyber Threat Analyst
 
 C)CSA & C3SA - Certified Cyber Security Analyst
 
+CCDA - Certified Cyber Defense Analyst
+
 C|SA - Certified SOC Analyst
 
 CM)CFI - Certified Master Cyber Forensic Investigator
