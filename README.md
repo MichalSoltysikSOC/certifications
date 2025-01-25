@@ -19,6 +19,8 @@ CCDA - Certified Cyber Defense Analyst
 
 C|SA - Certified SOC Analyst
 
+PSAA - Practical SOC Analyst Associate
+
 CM)CFI - Certified Master Cyber Forensic Investigator
 
 GNFA - GIAC Network Forensic Analyst
